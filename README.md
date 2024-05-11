@@ -1,0 +1,1 @@
+This Python project implements an object-oriented library management system to streamline the organization and tracking of books, users, authors, and genres. The system provides a command-line interface (CLI) for easy interaction.
